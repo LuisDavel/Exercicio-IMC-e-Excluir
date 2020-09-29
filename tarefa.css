@@ -1,0 +1,77 @@
+div{
+    margin: 0 auto;
+    width: 500px;
+    border: 1px solid rgb(255, 255, 255);
+    text-align: center;
+    background-color: rgb(240, 240, 217);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+input{
+    border-color: white;
+}
+
+button{
+    border-color: white;
+    margin-left: 10px;
+}
+
+ol li{
+    text-align: left;
+
+}
+
+body{
+    
+    background-color: rgb(251, 224, 189);
+}
+
+.para-fazer{
+    font-weight: bold;
+    color: red;
+}
+
+.concluida{
+    color: green; 
+    text-decoration: line-through; 
+
+}
+
+                /* EXERCICIO IMC */
+
+indice{
+    text-align: center;
+
+}
+
+.magro_grave{
+    color: red;
+}
+
+.magro_moderado{
+    color: orange;
+}
+
+.magro_leve{
+    color: grey;
+}
+
+.magro_saudavel{
+    color: rgb(14, 211, 14);
+}
+
+.obeso-grau1{
+    color: rgb(211, 211, 211);
+}
+
+.obeso-grau2{
+    color: rgb(224, 4, 4);
+}
+
+.obeso-grau3{
+    color: rgb(143, 1, 1);
+}
+
+
+
+
